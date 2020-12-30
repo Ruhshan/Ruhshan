@@ -23,11 +23,15 @@
 
 - ⚡ Fun fact **I used to write poetry before learning to write codes**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ruhshan-ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ruhshan-ahmed" height="30" width="40" /></a>
 <a href="https://fb.com/ruhshan.ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ruhshan.ahmed" height="30" width="40" /></a>
-<a href="https://medium.com/ruhshan-ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ruhshan-ahmed" height="30" width="40" /></a>
+<a href="https://medium.com/@ruhshan-ahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@ruhshan-ahmed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
